@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: eureka-client
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
+server:
+  port: 2001
+
