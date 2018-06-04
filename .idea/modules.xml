@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/eureka-client-demo/eureka-client-demo.iml" filepath="$PROJECT_DIR$/eureka-client-demo/eureka-client-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/consul-client-demo/eureka-client-demo (1).iml" filepath="$PROJECT_DIR$/consul-client-demo/eureka-client-demo (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-consumer/eureka-consumer.iml" filepath="$PROJECT_DIR$/eureka-consumer/eureka-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-consumer-ribbon/eureka-consumer (1).iml" filepath="$PROJECT_DIR$/eureka-consumer-ribbon/eureka-consumer (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-consumer-feign/eureka-consumer (2).iml" filepath="$PROJECT_DIR$/eureka-consumer-feign/eureka-consumer (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-server-demo/eureka-server-demo.iml" filepath="$PROJECT_DIR$/eureka-server-demo/eureka-server-demo.iml" />
     </modules>
   </component>

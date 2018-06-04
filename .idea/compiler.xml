@@ -9,6 +9,8 @@
         <module name="eureka-client-demo" />
         <module name="eureka-client-demo (1)" />
         <module name="eureka-consumer" />
+        <module name="eureka-consumer (1)" />
+        <module name="eureka-consumer (2)" />
         <module name="eureka-server-demo" />
       </profile>
     </annotationProcessing>
@@ -16,6 +18,8 @@
       <module name="eureka-client-demo" target="1.8" />
       <module name="eureka-client-demo (1)" target="1.8" />
       <module name="eureka-consumer" target="1.8" />
+      <module name="eureka-consumer (1)" target="1.8" />
+      <module name="eureka-consumer (2)" target="1.8" />
       <module name="eureka-server-demo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
