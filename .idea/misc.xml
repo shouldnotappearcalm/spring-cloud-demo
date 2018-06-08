@@ -9,6 +9,9 @@
         <option value="$PROJECT_DIR$/eureka-consumer/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-consumer-ribbon/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-consumer-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-consumer-ribbon-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/reactor/pom.xml" />
+        <option value="$PROJECT_DIR$/web-flux-demo01/pom.xml" />
       </list>
     </option>
   </component>

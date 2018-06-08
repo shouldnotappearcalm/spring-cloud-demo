@@ -11,7 +11,10 @@
         <module name="eureka-consumer" />
         <module name="eureka-consumer (1)" />
         <module name="eureka-consumer (2)" />
+        <module name="eureka-consumer (3)" />
         <module name="eureka-server-demo" />
+        <module name="reactor" />
+        <module name="web-flux-demo01" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -20,7 +23,10 @@
       <module name="eureka-consumer" target="1.8" />
       <module name="eureka-consumer (1)" target="1.8" />
       <module name="eureka-consumer (2)" target="1.8" />
+      <module name="eureka-consumer (3)" target="1.8" />
       <module name="eureka-server-demo" target="1.8" />
+      <module name="reactor" target="1.8" />
+      <module name="web-flux-demo01" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -7,7 +7,10 @@
       <module fileurl="file://$PROJECT_DIR$/eureka-consumer/eureka-consumer.iml" filepath="$PROJECT_DIR$/eureka-consumer/eureka-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-consumer-ribbon/eureka-consumer (1).iml" filepath="$PROJECT_DIR$/eureka-consumer-ribbon/eureka-consumer (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-consumer-feign/eureka-consumer (2).iml" filepath="$PROJECT_DIR$/eureka-consumer-feign/eureka-consumer (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-consumer-ribbon-hystrix/eureka-consumer (3).iml" filepath="$PROJECT_DIR$/eureka-consumer-ribbon-hystrix/eureka-consumer (3).iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-server-demo/eureka-server-demo.iml" filepath="$PROJECT_DIR$/eureka-server-demo/eureka-server-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reactor/reactor.iml" filepath="$PROJECT_DIR$/reactor/reactor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-flux-demo01/web-flux-demo01.iml" filepath="$PROJECT_DIR$/web-flux-demo01/web-flux-demo01.iml" />
     </modules>
   </component>
 </project>
