@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.springframework.cloud:spring-cloud-starter-hystrix:1.4.4.BUILD-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.m2/repository/org/springframework/cloud/spring-cloud-starter-hystrix/1.4.4.BUILD-SNAPSHOT/spring-cloud-starter-hystrix-1.4.4.BUILD-SNAPSHOT.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-hystrix/1.4.4.BUILD-SNAPSHOT/spring-cloud-starter-hystrix-1.4.4.BUILD-20180326.204812-323.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$USER_HOME$/.m2/repository/org/springframework/cloud/spring-cloud-starter-hystrix/1.4.4.BUILD-SNAPSHOT/spring-cloud-starter-hystrix-1.4.4.BUILD-SNAPSHOT-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-hystrix/1.4.4.BUILD-SNAPSHOT/spring-cloud-starter-hystrix-1.4.4.BUILD-20180326.204812-323-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$USER_HOME$/.m2/repository/org/springframework/cloud/spring-cloud-starter-hystrix/1.4.4.BUILD-SNAPSHOT/spring-cloud-starter-hystrix-1.4.4.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-hystrix/1.4.4.BUILD-SNAPSHOT/spring-cloud-starter-hystrix-1.4.4.BUILD-20180326.204812-323-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.springframework:spring-aop:4.3.18.BUILD-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.m2/repository/org/springframework/spring-aop/4.3.18.BUILD-SNAPSHOT/spring-aop-4.3.18.BUILD-20180604.132933-5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.18.BUILD-SNAPSHOT/spring-aop-4.3.18.BUILD-20180608.103601-6.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$USER_HOME$/.m2/repository/org/springframework/spring-aop/4.3.18.BUILD-SNAPSHOT/spring-aop-4.3.18.BUILD-20180604.132933-5-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.18.BUILD-SNAPSHOT/spring-aop-4.3.18.BUILD-20180608.103601-6-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$USER_HOME$/.m2/repository/org/springframework/spring-aop/4.3.18.BUILD-SNAPSHOT/spring-aop-4.3.18.BUILD-20180604.132933-5-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.18.BUILD-SNAPSHOT/spring-aop-4.3.18.BUILD-20180608.103601-6-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
