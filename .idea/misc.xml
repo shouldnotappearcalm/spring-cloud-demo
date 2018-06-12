@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/reactor/pom.xml" />
         <option value="$PROJECT_DIR$/web-flux-demo01/pom.xml" />
         <option value="$PROJECT_DIR$/hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/web-flux-function-demo/pom.xml" />
       </list>
     </option>
   </component>

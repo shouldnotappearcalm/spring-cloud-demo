@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" filepath="$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/reactor/reactor.iml" filepath="$PROJECT_DIR$/reactor/reactor.iml" />
       <module fileurl="file://$PROJECT_DIR$/web-flux-demo01/web-flux-demo01.iml" filepath="$PROJECT_DIR$/web-flux-demo01/web-flux-demo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-flux-function-demo/web-flux-function-demo.iml" filepath="$PROJECT_DIR$/web-flux-function-demo/web-flux-function-demo.iml" />
     </modules>
   </component>
 </project>
