@@ -6,31 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="eureka-client-demo" />
+        <module name="cloud-demo" />
         <module name="eureka-client-demo (1)" />
-        <module name="eureka-consumer" />
+        <module name="eureka-client-demo (2)" />
         <module name="eureka-consumer (1)" />
         <module name="eureka-consumer (2)" />
         <module name="eureka-consumer (3)" />
-        <module name="eureka-server-demo" />
+        <module name="eureka-consumer (4)" />
         <module name="hystrix-dashboard" />
         <module name="reactor" />
+        <module name="springboot-docker" />
         <module name="web-flux-demo01" />
         <module name="web-flux-function-demo" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="eureka-client-demo" target="1.8" />
-      <module name="eureka-client-demo (1)" target="1.8" />
-      <module name="eureka-consumer" target="1.8" />
-      <module name="eureka-consumer (1)" target="1.8" />
-      <module name="eureka-consumer (2)" target="1.8" />
-      <module name="eureka-consumer (3)" target="1.8" />
-      <module name="eureka-server-demo" target="1.8" />
-      <module name="hystrix-dashboard" target="1.8" />
-      <module name="reactor" target="1.8" />
-      <module name="web-flux-demo01" target="1.8" />
-      <module name="web-flux-function-demo" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>

@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/eureka-server-demo/pom.xml" />
-        <option value="$PROJECT_DIR$/eureka-client-demo/pom.xml" />
-        <option value="$PROJECT_DIR$/consul-client-demo/pom.xml" />
-        <option value="$PROJECT_DIR$/eureka-consumer/pom.xml" />
-        <option value="$PROJECT_DIR$/eureka-consumer-ribbon/pom.xml" />
-        <option value="$PROJECT_DIR$/eureka-consumer-feign/pom.xml" />
-        <option value="$PROJECT_DIR$/eureka-consumer-ribbon-hystrix/pom.xml" />
         <option value="$PROJECT_DIR$/reactor/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-consumer/pom.xml" />
         <option value="$PROJECT_DIR$/web-flux-demo01/pom.xml" />
         <option value="$PROJECT_DIR$/hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/consul-client-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-client-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-consumer-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-consumer-ribbon/pom.xml" />
         <option value="$PROJECT_DIR$/web-flux-function-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-consumer-ribbon-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-docker/pom.xml" />
       </list>
     </option>
   </component>
