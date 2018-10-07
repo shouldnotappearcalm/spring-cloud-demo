@@ -1,0 +1,14 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: microservice-config-server
+  cloud:
+    config:
+      server:
+        git:
+          #≈‰÷√gitµÿ÷∑
+          uri: https://github.com/shouldnotappearcalm/spring-cloud-config-repo.git
+          #git≤÷ø‚µƒ’À∫≈
+          username: shouldnotappearcalm
+          password: null

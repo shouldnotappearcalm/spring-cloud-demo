@@ -16,6 +16,13 @@
         <option value="$PROJECT_DIR$/web-flux-function-demo/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-consumer-ribbon-hystrix/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-docker/pom.xml" />
+        <option value="$PROJECT_DIR$/getway-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-client-demo2/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul-upload/pom.xml" />
+        <option value="$PROJECT_DIR$/getway-zuul-filter/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/config-client-refresh/pom.xml" />
       </list>
     </option>
   </component>

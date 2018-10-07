@@ -7,17 +7,24 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="cloud-demo" />
+        <module name="config-client" />
+        <module name="config-client (1)" />
+        <module name="config-server" />
+        <module name="eureka-client-demo" />
         <module name="eureka-client-demo (1)" />
         <module name="eureka-client-demo (2)" />
         <module name="eureka-consumer (1)" />
         <module name="eureka-consumer (2)" />
         <module name="eureka-consumer (3)" />
         <module name="eureka-consumer (4)" />
+        <module name="getway-zuul" />
+        <module name="getway-zuul (1)" />
         <module name="hystrix-dashboard" />
         <module name="reactor" />
         <module name="springboot-docker" />
         <module name="web-flux-demo01" />
         <module name="web-flux-function-demo" />
+        <module name="zuul-upload" />
       </profile>
     </annotationProcessing>
   </component>
