@@ -3,6 +3,6 @@ FROM openjdk:8-jdk-alpine
 #这个命令的效果是：在宿主机的/var/lib/docker目录下创建一个临时文件并把它链接到容器中的/tmp目录
 VOLUME /tmp
 #拷贝文件并重命名
-ADD springboot-dockerr-0.0.1-SNAPSHOT app.jar
+ADD springboot-docker-0.0.1-SNAPSHOT.jar app.jar
 #ENTRYPOINT ，为了缩短 Tomcat 的启动时间，添加java.security.egd 的系统属性指向/dev/urandom作为 ENTRYPOINT
 ENTRYPOINT ["java","-Djava.security.egd=file:/dev/./urandom","-jar","/app.jar"]
